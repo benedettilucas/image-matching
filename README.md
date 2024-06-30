@@ -16,5 +16,6 @@ As imagens de busca (2023) do mapa conhecido estão disponíveis em:
 
 As imagens de referência (2022) do mapa desconhecido estão disponíveis em:
 - respectivas coordenadas:
+
 As imagens de busca (2023) do mapa desconhecido estão disponíveis em:
 - respectivas coordenadas:
