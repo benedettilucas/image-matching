@@ -1,7 +1,7 @@
 # image-matching
 Large-scale image matching for UAV localization
 
-This repository contains the data used in the development of the paper "Autoencoder Satellite Image Matching for UAV Geolocation in Long-Range High-Altitude Missions.
+This repository contains the data used in the development of the paper "Autoencoder Satellite Image Matching for UAV Geolocation in Long-Range High-Altitude Missions".
 
 Autoencoder weights: [Link](https://drive.google.com/file/d/13CjeDcpZFOGQmtDKKIKVT1q6x1JPcgFs/view?usp=drive_link)
 
