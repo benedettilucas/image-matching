@@ -18,3 +18,9 @@ Reference images (2022) of the unknown map are available at: [Link](https://driv
 
 Query images (2023) of the unknown map are available at: [Link](https://drive.google.com/file/d/1bjeHQaotKfPAsZp58StViKNv3hdUCxtx/view?usp=drive_link)
 - respective coordinates: [Link](https://drive.google.com/file/d/1kDIaKqRxwS22K1TXhgnnY92rOtNw3b5N/view?usp=drive_link)
+
+---
+
+Below is the unknown map used during the experiments in Table V. The number corresponding to Table V, starts on the left on the trajectory in red (1) and ends on the right on the trajectory in pink (8)
+
+![unknow-map](https://github.com/user-attachments/assets/02ff944c-0518-46ba-9279-ffecd59ef689)
